@@ -64,6 +64,9 @@ The core issue is a **protocol-level weakness**, not a firewall misconfiguration
 2. Periodically audit web applications for HTTP-only authentication forms.
 3. Maintain firewall rule hygiene; rules were safely tested and removed without residual clutter.
 
+## MITRE ATT&CK Mapping
+- **T1040 – Network Sniffing:** The technique an attacker would use to intercept the cleartext credentials demonstrated in this capture.
+
 ## Conclusion
 This investigation identified a real, demonstrable credential exposure risk caused by unencrypted HTTP transmission, paired with a hands-on demonstration of host-based firewall administration. Together, they show the ability to detect a security weakness through traffic analysis and take direct, verifiable action on system-level controls — two core Tier 1 SOC analyst competencies.
 
