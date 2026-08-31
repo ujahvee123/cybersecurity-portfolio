@@ -10,3 +10,4 @@ My hands-on cybersecurity learning projects and SOC analyst evidence, built duri
 | 02 | [Wireshark: Extracting Credentials from HTTP Traffic](./02-Wireshark-HTTP-Credentials) | Wireshark, packet capture analysis, HTTP protocol inspection |
 | 03 | [SOC Investigation: Insecure Credential Transmission](./03-SOC-Investigation-Credential-Exposure) | Investigation methodology, firewall administration (PowerShell), MITRE ATT&CK mapping, professional incident reporting |
 | 04 | [Windows Endpoint Security Audit](./04-Windows-Endpoint-Security-Audit) | PowerShell auditing, Defender/patch/BitLocker assessment, least-privilege review, risk-rated findings |
+| 05 | [Linux Incident Evidence Workspace & Network Isolation](./05-Linux-Incident-Evidence-Workspace) | Linux file system navigation, file permission hardening (chmod), UFW firewall administration, evidence handling |
