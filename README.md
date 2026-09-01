@@ -12,3 +12,4 @@ My hands-on cybersecurity learning projects and SOC analyst evidence, built duri
 | 04 | [Windows Endpoint Security Audit](./04-Windows-Endpoint-Security-Audit) | PowerShell auditing, Defender/patch/BitLocker assessment, least-privilege review, risk-rated findings |
 | 05 | [Linux Incident Evidence Workspace & Network Isolation](./05-Linux-Incident-Evidence-Workspace) | Linux file system navigation, file permission hardening (chmod), UFW firewall administration, evidence handling |
 | 06 | [Incident Response Fundamentals: Suspicious SSH Authentication](./06-Incident-Response-Fundamentals) | Incident response lifecycle, evidence handling, timeline construction, authentication log analysis |
+| 07 | [Digital Forensics and Log Analysis: Suspicious SSH Authentication](./07-Digital-Forensics-and-Log-Analysis) | Digital forensics fundamentals, evidence integrity (SHA-256), disk/process/network investigation, log correlation, IOC identification |
