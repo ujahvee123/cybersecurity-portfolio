@@ -1,0 +1,5 @@
+10:02:45 LINUX01 outbound_connection
+Source: 10.10.20.15
+Destination: 203.0.113.50
+Destination Port: 443
+Protocol: TCP

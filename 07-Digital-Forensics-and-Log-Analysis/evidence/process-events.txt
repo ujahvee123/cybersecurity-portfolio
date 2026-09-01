@@ -1,0 +1,4 @@
+10:02:15 LINUX01 process_start
+User: alice
+PID: 5150
+Command: python3 /tmp/update-check.py
