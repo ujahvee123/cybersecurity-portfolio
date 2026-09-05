@@ -25,11 +25,11 @@ Log analysis (grep, sort, uniq) on evidence/authentication-events.txt identified
 - evidence/iocs.txt — extracted indicators
 
 ## Indicators Identified
--IP Address: 203.0.113.50
--Target Host: LINUX01
--Target Account: admin
--Target Account: root
--Target Account: alice (successful)
+- IP Address: 203.0.113.50
+- Target Host: LINUX01
+- Target Account: admin
+- Target Account: root
+- Target Account: alice (successful)
 
 ## Assessment
 The pattern: repeated failures across multiple accounts from a single source, immediately followed by success on one of the previously-failed accounts which is consistent with password-guessing behavior. This is a recognized credential-attack signature, not a random or unrelated sequence of events.
